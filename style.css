@@ -1,0 +1,33 @@
+body {
+    background: black;
+    color: lime;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+.progress-bar {
+    width: 100%;
+    background: #222;
+    height: 30px;
+    margin: 20px 0;
+}
+
+.progress {
+    height: 100%;
+    width: 0%;
+    background: lime;
+}
+
+button {
+    padding: 10px 20px;
+    background: red;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
